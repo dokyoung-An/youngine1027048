@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.0.10" apprev="20025" start="node1">
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.45388" fov="140.418" pan="9.89407"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:53:35" info="" heading="0" description="" latitude="37.328450" title="세대입구" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node1" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="현관" tilt="-19.79" skinid="ht_node" pan="-1.05001" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.46133" fov="140.418" pan="9.88256"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:53:38" info="" heading="0" description="" latitude="37.328450" title="현관" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node2" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="복도2" tilt="-36.33" skinid="ht_node" pan="-344.62" url="{node8}"/>
+      <hotspot description="" id="Point02" target="" title="세대입구" tilt="-25.91" skinid="ht_node" pan="-171.53" url="{node1}"/>
+      <hotspot description="" id="Point03" target="" title="현관창고" tilt="-25.98" skinid="ht_node" pan="-75.21" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.81442" fov="140.418" pan="-5.38614"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:53:42" info="" heading="0" description="" latitude="37.328450" title="현관창고" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node3" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="실외기실" tilt="-29.91" skinid="ht_node" pan="-96.78" url="{node4}"/>
+      <hotspot description="" id="Point02" target="" title="현관" tilt="-37.54" skinid="ht_node" pan="-186.01" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.39754" fov="140.418" pan="3.20043"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:53:46" info="" heading="0" description="" latitude="37.328450" title="실외기실" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node4" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="현관창고" tilt="-32.08" skinid="ht_node" pan="-162.84" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.39633" fov="140.418" pan="10.1328"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:20" info="" heading="0" description="" latitude="37.328308" title="침실1" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.129400" customnodeid="" nodeid="node13" author="" source="" comment="" altitude="167.45"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" target="" title="파우더룸" tilt="-25.06" pan="-146.89" url="{node14}" distance="1.69462" id="Point01" skinid="ht_node"/>
+      <hotspot description="" target="" title="복도1" tilt="-20.86" pan="-231.51" url="{node10}" distance="110.421" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-1.45811" fov="140.418" pan="3.3063"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:32" info="" heading="0" description="" latitude="37.328314" title="드레스룸" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.129436" customnodeid="" nodeid="node16" author="" source="" comment="" altitude="162.79"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" target="" title="파우더룸" tilt="-31.08" pan="-173.29" url="{node14}" distance="1.74663" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-1.7837" fov="140.418" pan="5.48805"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:24" info="" heading="0" description="" latitude="37.328306" title="파우더룸" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.129419" customnodeid="" nodeid="node14" author="" source="" comment="" altitude="164.29"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="부부욕실" tilt="-31.74" skinid="ht_node" pan="-173.26" url="{node15}"/>
+      <hotspot description="" target="" title="드레스룸" tilt="-24.64" pan="-85.96" url="{node16}" distance="1.74663" id="Point02" skinid="ht_node"/>
+      <hotspot description="" target="" title="침실1" tilt="-26.7" pan="-255.62" url="{node13}" distance="1.69462" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-1.14924" fov="140.418" pan="3.07395"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:28" info="" heading="0" description="" latitude="37.328306" title="부부욕실" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.129419" customnodeid="" nodeid="node15" author="" source="" comment="" altitude="164.29"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="파우더룸" tilt="-34.3" skinid="ht_node" pan="-259.67" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0.0602148" fov="140.418" pan="-8.29454"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:09" info="" heading="0" description="" latitude="37.328450" title="복도1" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node10" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="주방" tilt="-17.68" skinid="ht_node" pan="-162.22" url="{node11}"/>
+      <hotspot description="" target="" title="침실1" tilt="-14.93" pan="-44.91" url="{node13}" distance="110.421" id="Point02" skinid="ht_node"/>
+      <hotspot description="" id="Point03" target="" title="거실" tilt="-18.57" skinid="ht_node" pan="-353.54" url="{node9}"/>
+      <hotspot description="" id="Point04" target="" title="복도2" tilt="-23.43" skinid="ht_node" pan="-313.63" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.99684" fov="140.418" pan="5.63411"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:05" info="" heading="0" description="" latitude="37.328450" title="거실" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node9" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="복도1" tilt="-20.14" skinid="ht_node" pan="-168.3" url="{node10}"/>
+      <hotspot description="" target="" title="침실1" tilt="-18.92" pan="-123.68" url="{node13}" distance="110.421" id="Point02" skinid="ht_node"/>
+      <hotspot description="" id="Point03" target="" title="복도2" tilt="-23.22" skinid="ht_node" pan="-225.13" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-2.05476" fov="140.418" pan="-1.04461"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:13" info="" heading="0" description="" latitude="37.328450" title="주방" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node11" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="복도1" tilt="-24.81" skinid="ht_node" pan="-168.43" url="{node10}"/>
+      <hotspot description="" target="" title="다용도실" tilt="-15.35" pan="-274.09" url="{node12}" distance="115.672" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-1.2457" fov="140.418" pan="-10.5792"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:17" info="" heading="0" description="" latitude="37.328469" title="다용도실" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.129328" customnodeid="" nodeid="node12" author="" source="" comment="" altitude="190.58"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" target="" title="주방" tilt="-26.75" pan="-104.85" url="{node11}" distance="115.672" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-0.296983" fov="140.418" pan="-5.93799"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:54:01" info="" heading="0" description="" latitude="37.328450" title="복도2" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node8" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="침실2" tilt="-22.93" skinid="ht_node" pan="-317.55" url="{node7}"/>
+      <hotspot description="" id="Point02" target="" title="복도1" tilt="-20.43" skinid="ht_node" pan="-358.35" url="{node10}"/>
+      <hotspot description="" id="Point03" target="" title="현관" tilt="-22.24" skinid="ht_node" pan="-142.64" url="{node2}"/>
+      <hotspot description="" id="Point04" target="" title="공용욕실" tilt="-16.52" skinid="ht_node" pan="-177" url="{node5}"/>
+      <hotspot description="" id="Point05" target="" title="침실3" tilt="-24.91" skinid="ht_node" pan="-194.88" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0.198231" fov="140.418" pan="-1.61822"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:53:57" info="" heading="0" description="" latitude="37.328450" title="침실2" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node7" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="복도2" tilt="-24.99" skinid="ht_node" pan="-161.41" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-0.344913" fov="140.418" pan="0.693658"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:53:53" info="" heading="0" description="" latitude="37.328450" title="침실3" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node6" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="복도2" tilt="-22.77" skinid="ht_node" pan="-157.21" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltilesize="510">
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-0.433212" fov="140.418" pan="-2.32912"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata datetime="2024:10:13 11:53:50" info="" heading="0" description="" latitude="37.328450" title="공용욕실" copyright="" tags="2024년 10월 13일 일요일(12시30분) 용인 이편한세상 죽전 프리미어포레 아파트 102동 1204호 (84A타입)" longitude="127.130636" customnodeid="" nodeid="node5" author="" source="" comment="" altitude="141.89"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label wordwrap="1" bordercolor="0x000000" border="1" backgroundalpha="1" textalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" target="" title="복도2" tilt="-34.33" skinid="ht_node" pan="-155.57" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" zoomout="0" softedge="0" zoomafterinfov="140" type="crossdissolve"/>
+    <autorotate delay="10.00" nodedelay="0.00" returntohorizon="0.000" useanimation="0" speed="0.020" enabled="1" startloaded="0" noderandom="1" nodefilter="" horizonfromdefview="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" rubberband="0" zoomcentercursor="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" contextprojections="0" invertwheel="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" hideabout="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="102동 1204호" title="용인 이편한세상 죽전 프리미어포레" author="" copyright="" tags="" comment="34평"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
